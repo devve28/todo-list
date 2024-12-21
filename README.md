@@ -39,7 +39,7 @@ The application layout aims to be visually appealing and user-friendly. UI and U
 
 ## Project Structure
 
-TODO-List
+TODO-List  
 │ ├── src   
 │ ├── components    
 │ │ ├── Task.js # Task display component  
