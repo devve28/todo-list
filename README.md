@@ -41,18 +41,31 @@ The application layout aims to be visually appealing and user-friendly. UI and U
 
 TODO-List
 │ ├── src
+
 │ ├── components
+
 │ │ ├── Task.js # Task display component
+
 │ │ └── TaskList.js # Main task list component 
+
 │ |
 │ ├── utils/
+
 │ │ └── helpers.js # Helper functions for validation, etc.
+
 │ │ │ ├── App.js # Main application component
+
 │ ├── index.js # Entry point 
+
 │ └── styles.css # CSS styles
+
 │ ├── public/ 
+
 │ ├── index.html # HTML template
-│ ├── package.json # Project metadata and dependencies └── README.md # Project documentation
+
+│ ├── package.json # Project metadata and dependencies
+
+└── README.md # Project documentation
 
 markdown
 dsf.
