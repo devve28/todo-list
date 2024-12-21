@@ -39,13 +39,13 @@ The application layout aims to be visually appealing and user-friendly. UI and U
 
 ## Project Structure
 
-TODO-List/
-│ ├── src/
-│ ├── components/
+TODO-List
+│ ├── src
+│ ├── components
 │ │ ├── Task.js # Task display component
 │ │ └── TaskList.js # Main task list component 
-│ │
-│ ├── utils/ 
+│ |
+│ ├── utils/
 │ │ └── helpers.js # Helper functions for validation, etc.
 │ │ │ ├── App.js # Main application component
 │ ├── index.js # Entry point 
