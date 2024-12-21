@@ -55,7 +55,7 @@ TODO-List/ │ ├── src/
            └── README.md # Project documentation
 
 markdown
-Копировать код
+
 
 ## Installation
 
